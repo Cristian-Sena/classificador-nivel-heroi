@@ -1,4 +1,7 @@
-let nomeHeroi = 'Lulu'
+//Classificador de nivel de heroi
+//Exercicio para treinar estruturas de condição, operações e variaveis.
+
+let nomeHeroi = 'Cristian'
 let xpHeroi = 10001
 let nivel
 
